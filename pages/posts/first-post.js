@@ -11,7 +11,7 @@ export default function FirstPost() {
       </Head>
       <Layout />
 
-      <h1>First Post</h1>
+      <h1>First Post!</h1>
       <Link href="/">
         <a>Back to home JS</a>
       </Link>
